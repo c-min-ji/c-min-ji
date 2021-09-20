@@ -2,6 +2,9 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fc-min-ji&count_bg=%232F84C4&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+[![Minji's github stats](https://github-readme-stats.vercel.app/api?username=c-min-ji)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **c-min-ji/c-min-ji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
