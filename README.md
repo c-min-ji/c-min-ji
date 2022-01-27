@@ -2,14 +2,16 @@
 
 <br>
 
-# 💎
+💎
+   
+![](https://camo.githubusercontent.com/76109812f3127b0f86940373897b04ac8943cb3c0f057f90046444480f61bafd/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67)   
    
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fc-min-ji&count_bg=%23589ADD&title_bg=%235C6D81&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
 ![truemanshow](./KakaoTalk_20210920_172732469.gif)
 <br>
 
-  ##
+##
   
 | 💙 Skills 💙 | 💙 Stats 💙 | 💙 Etc. 💙 |
 |:--: | :--: | :--: |
